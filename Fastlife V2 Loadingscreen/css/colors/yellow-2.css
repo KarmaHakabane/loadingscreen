@@ -1,0 +1,107 @@
+@charset "utf-8";
+a {
+    color: #ff8000;
+}
+
+p a {
+    color: #ff8000;
+}
+
+#main-menu {
+    background: #ff8000;
+}
+
+.color-me {
+    color: #ff8000;
+}
+
+.awesome {
+    color: #ff8000;
+}
+
+@-webkit-keyframes glow {
+    0% {
+        border-color: #ff8000;
+    }
+    100% {
+        border-color: #EA2027;
+    }
+}
+
+@-moz-keyframes glow {
+    0% {
+        border-color: #EA2027;
+    }
+    100% {
+        border-color: #EA2027;
+    }
+}
+
+@-o-keyframes glow {
+    0% {
+        border-color: #EA2027;
+    }
+    100% {
+        border-color: #EA2027;
+    }
+}
+
+@-ms-keyframes glow {
+    0% {
+        border-color: #EA2027;
+    }
+    100% {
+        border-color: #EA2027;
+    }
+}
+
+@keyframes glow {
+    0% {
+        border-color: #EA2027;
+    }
+    100% {
+        border-color: #EA2027;
+    }
+}
+
+.submit-button {
+    color: #fff;
+    background: #fff;
+}
+
+.submit-button::before {
+    color: #fff;
+    background: #EA2027;
+}
+
+.submit-button:hover {
+    color: #000;
+    background: #fff;
+}
+
+.submit-button-2 {
+    color: #fff;
+    background: #fff;
+}
+
+.submit-button-2::before {
+    color: #fff;
+    background: #EA2027;
+}
+
+.submit-button-2:hover {
+    color: #000;
+    background: #fff;
+}
+
+.owl-page.active span {
+    background: #EA2027;
+}
+
+.expand {
+    background: #EA2027;
+}
+
+.options-head {
+    background: #EA2027;
+}
